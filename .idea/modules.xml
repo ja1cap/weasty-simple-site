@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/PhpstormProjects/weasty-simple-site/.idea/weasty-simple-site.iml" filepath="$USER_HOME$/PhpstormProjects/weasty-simple-site/.idea/weasty-simple-site.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/belmassive.by.iml" filepath="$PROJECT_DIR$/.idea/belmassive.by.iml" />
     </modules>
   </component>
 </project>
